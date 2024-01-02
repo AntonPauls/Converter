@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="name_app_colorText">#ffffff</color>
+    <color name="name_app_background">#0094e0</color>
+    <color name="name_balance_background">#7b7f8d</color>
+    <color name="background_nums">#d1d2d9</color>
+
+</resources>
